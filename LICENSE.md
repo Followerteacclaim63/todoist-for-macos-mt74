@@ -1,4 +1,4 @@
-#  
+#  Todoist for macOS exclusive Workflow: custom shortcuts & OCR scanning is the best Todoist for macOS workflow, featuring custom shortcuts and OCR scanning. Safe, efficient, and
 
 
 
